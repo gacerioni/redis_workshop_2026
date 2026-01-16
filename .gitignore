@@ -1,0 +1,8 @@
+.idea/
+.ipynb_checkpoints/
+anaconda_projects/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
