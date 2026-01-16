@@ -1,23 +1,8 @@
 # Redis Workshop 2026 🚀
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gacerioni/redis-workshop-2026/blob/main/redis_workshop_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gacerioni/redis_workshop_2026/blob/main/redis_workshop_cli.ipynb)
 
-Workshop hands-on de Redis com exercícios práticos usando Python e comandos redis-cli.
-
----
-
-## 🎯 Duas Versões Disponíveis
-
-### 🌐 Google Colab (Recomendado)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gacerioni/redis-workshop-2026/blob/main/redis_workshop_colab.ipynb)
-
-✅ Zero instalação - roda no navegador  
-✅ Comandos redis-cli + Python lado a lado  
-✅ Compartilhamento fácil  
-
-### 💻 Jupyter Local
-✅ Controle total  
-✅ Funciona offline  
+Workshop hands-on de Redis com exercícios práticos usando redis-cli puro.
 
 ---
 
@@ -27,8 +12,8 @@ Workshop hands-on de Redis com exercícios práticos usando Python e comandos re
 
 **Jupyter Local:**
 ```bash
-git clone https://github.com/gacerioni/redis-workshop-2026.git
-cd redis-workshop-2026
+git clone https://github.com/gacerioni/redis_workshop_2026.git
+cd redis_workshop_2026
 pip install -r requirements.txt
 jupyter notebook
 ```
